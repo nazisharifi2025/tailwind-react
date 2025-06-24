@@ -1,7 +1,9 @@
 function google() {
   return (
     <>
-      <div className="flex justify-center items-center "></div>
+      <div className="flex justify-center items-center w-full h-16 font-bold text-2xl">
+        <span className="text-blue-200">G</span>
+      </div>
     </>
   );
 }
