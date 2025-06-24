@@ -3,7 +3,7 @@ function Card() {
   return (
     <>
       <div className="h-20 w-full text-center p-4 flex  justify-right float-right items-end">
-        <div className="flex space-x-4 w-full justify-right float-right">
+        <div className="flex space-x-8 w-full justify-right float-right">
           <h3 className=" text-xl font-bold">Gmail</h3>
           <h2 className=" text-xl font-bold">Images</h2>
           <span className="text-xl">🚹</span>
