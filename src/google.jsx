@@ -1,4 +1,8 @@
 function google() {
-  return <></>;
+  return (
+    <>
+      <div className="flex justify-center items-center "></div>
+    </>
+  );
 }
 export default google;
