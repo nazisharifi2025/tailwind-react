@@ -10,6 +10,7 @@ function div() {
           <img
             src="../img/WhatsApp Image 2025-04-29 at 08.24.50_65cf2dc8.jpg"
             alt=""
+            className="h-12 w-12"
           />
         </div>
       </div>
