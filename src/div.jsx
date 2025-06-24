@@ -1,17 +1,14 @@
 import "./App.css";
-function Card() {
+function div() {
   return (
     <>
-      <div className="h-[300px] w-[250px] bg-blue-50 rounded-md text-center p-4 flex justify-center items-center shadow-md shadow-gray-300">
-        <h1 className="text-center font-bold text-xl">Naz_Sharifi</h1>
-        <p className="text-center text-xs">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum,
-          tempore sequi optio itaque praesentium natus beatae dolore amet
-          aspernatur ullam, quia sunt pariatur cumque voluptatum nisi temporibus
-          ea veniam ducimus.
-        </p>
+      <div className="h-20 w-full text-center p-4 flex  justify-end">
+        <div className="flex space-x-4">
+          <h1 className="font-bold text-xl">Gmail</h1>
+          <h1 className="font-bold text-xl">Images</h1>
+        </div>
       </div>
     </>
   );
 }
-export default Card;
+export default div;
