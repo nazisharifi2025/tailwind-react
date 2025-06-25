@@ -6,8 +6,8 @@ import "./App.css";
 function Card() {
   return (
     <>
-      <div className="h-20 w-[15%]  text-center p-4 flex  justify-right float-right items-end">
-        <div className="flex space-x-8  justify-center items-center float-right">
+      <div className=" w-[40%]  text-center p-4 flex  justify-right float-right items-end">
+        <div className="flex space-x-8 w-full  justify-center items-center float-right">
           <h3 className=" text-xl font-bold">Gmail</h3>
           <h2 className=" text-xl font-bold">Images</h2>
           <span class="material-symbols-outlined">apps</span>
