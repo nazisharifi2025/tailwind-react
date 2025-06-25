@@ -1,7 +1,7 @@
 export default function Messeg() {
   return (
     <>
-      <div className="h-16 w-full "></div>
+      <div className="h-16 w-full bg-blue-200 text-white"></div>
     </>
   );
 }
