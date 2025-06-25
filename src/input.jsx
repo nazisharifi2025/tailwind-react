@@ -1,7 +1,9 @@
 function Input() {
   return (
     <>
-      <div className="w-full flex justify-center items-center"></div>
+      <div className="w-full flex justify-center items-center">
+        <input type="text" className="h-12 w-[80%] rounded-full " />
+      </div>
     </>
   );
 }
