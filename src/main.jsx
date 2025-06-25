@@ -16,5 +16,6 @@ createRoot(document.getElementById("root")).render(
     <Icone />
     <Messeg />
     <Messeg />
+    <Messeg />
   </StrictMode>
 );
