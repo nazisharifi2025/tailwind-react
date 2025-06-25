@@ -3,11 +3,11 @@ import { createRoot } from "react-dom/client";
 import "./index.css";
 import App from "./App.jsx";
 import Card from "./div.jsx";
-import google from "./google.jsx";
+import Google from "./google.jsx";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <App />
     <Card />
-    <google />
+    <Google />
   </StrictMode>
 );
