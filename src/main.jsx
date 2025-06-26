@@ -6,7 +6,7 @@ import Card from "./div.jsx";
 import Google from "./google.jsx";
 import Input from "./input.jsx";
 import Icone from "../Icons.jsx";
-import Js from "./js.jsx";
+import Mess from "./mess.jsx";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <App />
@@ -14,6 +14,6 @@ createRoot(document.getElementById("root")).render(
     <Google />
     <Input />
     <Icone />
-    <Js />
+    <Mess />
   </StrictMode>
 );
