@@ -7,7 +7,7 @@ function Git() {
           className="h-[300px] w-[250px] rounded-2xl"
           alt=""
         />
-        <h1>Devloper</h1>
+        <h1 className="font-bold text-2xl">Devloper</h1>
       </div>
     </>
   );
