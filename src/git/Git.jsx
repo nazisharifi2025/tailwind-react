@@ -13,7 +13,7 @@ function Git() {
         <h3 className="font-bold text-xl text-gray-600 text-center">
           Nazi Sharifi
         </h3>
-        <p>
+        <p className="text-xs text-center">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam tempora
           nulla adipisci explicabo sequi. Assumenda cupiditate nisi iure rem
           debitis quidem maxime? Cupiditate quis beatae, voluptate inventore
