@@ -19,7 +19,7 @@ function Git() {
           debitis quidem maxime? Cupiditate quis beatae, voluptate inventore
           adipisci ipsum vel.
         </p>
-        <button>Me</button>
+        <button className="font-bold p-4 ">Me</button>
       </div>
     </>
   );
