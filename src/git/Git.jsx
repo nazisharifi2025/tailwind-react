@@ -10,6 +10,7 @@ function Git() {
         <h1 className="font-bold text-2xl text-center text-gray-900">
           Devloper
         </h1>
+        <h3>Nazi Sharifi</h3>
       </div>
     </>
   );
