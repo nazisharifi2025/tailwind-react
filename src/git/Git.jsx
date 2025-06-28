@@ -1,7 +1,7 @@
 function Git() {
   return (
     <>
-      <div className="h-screen w-full"></div>
+      <div className="h-screen w-full bg-gray-200 text-white"></div>
     </>
   );
 }
